@@ -24,6 +24,14 @@ Each difficulty level has at least 5 questions, the user can also quit the game 
 <br>
 <br>
 <h4>Block Diagram:</h4>
-<img width="580", src=""/>
+<img width="580", src="https://github.com/cfdulce/pyproject2/assets/141872577/c3966e32-44bb-4199-a068-696f63dbc701"/>
 <br>
 <h4>Input/Output Results</h4>
+ <p align="center"><i>When user first runs the game (no input yet)</i></p>
+<img align="center", width="580", src=""/>
+ <p align="center"><i>When user selects Easy</i></p>
+<img align="center", width="580", src=""/>
+ <p align="center"><i>If user inputs wrong information (typos, lowercase letters, unspecified information).</i></p>
+<img align="center", width="580", src=""/>
+ <p align="center"><i>While user is playing the game</i></p>
+<img align="center", width="580", src=""/>
