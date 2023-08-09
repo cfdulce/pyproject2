@@ -26,12 +26,16 @@ Each difficulty level has at least 5 questions, the user can also quit the game 
 <h4>Block Diagram:</h4>
 <img width="580", src="https://github.com/cfdulce/pyproject2/assets/141872577/c3966e32-44bb-4199-a068-696f63dbc701"/>
 <br>
+<br>
 <h4>Input/Output Results</h4>
- <p align="center"><i>When user first runs the game (no input yet)</i></p>
-<img align="center", width="580", src=""/>
- <p align="center"><i>When user selects Easy</i></p>
-<img align="center", width="580", src=""/>
- <p align="center"><i>If user inputs wrong information (typos, lowercase letters, unspecified information).</i></p>
-<img align="center", width="580", src=""/>
- <p align="center"><i>While user is playing the game</i></p>
-<img align="center", width="580", src=""/>
+ <p><i>When user first runs the game (no input yet)</i></p>
+ <img align="center", src="https://github.com/cfdulce/pyproject2/assets/141872577/a320584e-033c-499d-a060-9b9e58e45155"/>
+
+ <p><i>When user selects Easy</i></p>
+ <img align="center", src="https://github.com/cfdulce/pyproject2/assets/141872577/0299806a-4b9b-4be8-b241-b7b2725549a5"/>
+ 
+ <p><i>If user inputs wrong information (typos, lowercase letters, unspecified information).</i></p>
+ <img align="center", src="https://github.com/cfdulce/pyproject2/assets/141872577/6f9336f5-3e76-4e1c-87e5-55bd1c2aac04"/>
+ 
+ <p><i>While user is playing the game</i></p>
+ <img align="center", src="https://github.com/cfdulce/pyproject2/assets/141872577/7701a05a-d888-4b17-913b-f0a6fd95d60d"/>
